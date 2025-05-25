@@ -158,5 +158,5 @@ Console.WriteLine(card);                  // Display card
 - ✅ **Git Repository:** Clean commit history and proper structure
 
 ## Author
-**Student:** [Your Name]
+**Student:** Nuria Siddiqa
 **Professor:** Hao Tang  
