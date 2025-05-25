@@ -1,4 +1,4 @@
-# CSC 350H Homework 4.2 - Card/Deck Class Implementation
+# CSC 350H Homework 4.1 - Card/Deck Class Implementation
 
 ## Project Overview
 Complete implementation of Card and Deck classes for a standard 52-card deck with full functionality including shuffling, cutting, and card manipulation.
