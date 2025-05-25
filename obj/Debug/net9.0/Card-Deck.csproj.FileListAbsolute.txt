@@ -1,0 +1,14 @@
+/Users/nuria/Desktop/Card-Deck/bin/Debug/net9.0/Card-Deck
+/Users/nuria/Desktop/Card-Deck/bin/Debug/net9.0/Card-Deck.deps.json
+/Users/nuria/Desktop/Card-Deck/bin/Debug/net9.0/Card-Deck.runtimeconfig.json
+/Users/nuria/Desktop/Card-Deck/bin/Debug/net9.0/Card-Deck.dll
+/Users/nuria/Desktop/Card-Deck/bin/Debug/net9.0/Card-Deck.pdb
+/Users/nuria/Desktop/Card-Deck/obj/Debug/net9.0/Card-Deck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuria/Desktop/Card-Deck/obj/Debug/net9.0/Card-Deck.AssemblyInfoInputs.cache
+/Users/nuria/Desktop/Card-Deck/obj/Debug/net9.0/Card-Deck.AssemblyInfo.cs
+/Users/nuria/Desktop/Card-Deck/obj/Debug/net9.0/Card-Deck.csproj.CoreCompileInputs.cache
+/Users/nuria/Desktop/Card-Deck/obj/Debug/net9.0/Card-Deck.dll
+/Users/nuria/Desktop/Card-Deck/obj/Debug/net9.0/refint/Card-Deck.dll
+/Users/nuria/Desktop/Card-Deck/obj/Debug/net9.0/Card-Deck.pdb
+/Users/nuria/Desktop/Card-Deck/obj/Debug/net9.0/Card-Deck.genruntimeconfig.cache
+/Users/nuria/Desktop/Card-Deck/obj/Debug/net9.0/ref/Card-Deck.dll
