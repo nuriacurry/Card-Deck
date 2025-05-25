@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Card-Deck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc4b7796ee46564007c427d5f555a84bdfd25cd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Card-Deck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Card-Deck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
